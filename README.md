@@ -1,4 +1,4 @@
-# °°°°°°°°°°°°°°°°°°°°°°  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Pogodrawings+Profile;I+am+a+beginer;Learning+Python+...;;Subscribe+maheshpokeyoutuber+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg) °°°°°°°°°°°°°°°°°°°°°°
+# °°°°°°°°°°°°°°°°°°°°°°  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y80000&lines=Welcome+to+Pogodrawings+Profile;I+am+a+beginer;Learning+Python+...;;Subscribe+maheshpokeyoutuber+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg) °°°°°°°°°°°°°°°°°°°°°°
 
 <h3 align="center"><b><i>🤠 About me :-</i></b>
 <br>
