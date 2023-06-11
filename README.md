@@ -15,11 +15,11 @@
 <img src="https://komarev.com/ghpvc/?username=pogodrawings&color=brightgreen" alt="watching_count" />
 </p>
 
-<h3 align="center"><b><i>🏆 Github Statistics :-</i></b></h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Greymattersbot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Greymattersbot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Greymattersbot&theme=chartreuse-dark" alt="mystreak"/>
-<a href="https://github.com/Greymattersbot"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Greymattersbot&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<h3 align="center"><b><i>🏆 My Github Statistics :-</i></b></h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pogodrawings&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pogodrawings&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pogodrawings&theme=chartreuse-dark" alt="mystreak"/>
+<a href="https://github.com/pogodrawings"><img width=550 src="https://github-profile-trophy.vercel.app/?username=pogodrawings&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3 align="center"><b><i>Join us on Telegram :-</i></b>
 <h3 align="center"><a href="https://www.telegram.dog/GreyMatter_Bots">
