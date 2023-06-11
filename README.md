@@ -3,10 +3,10 @@
 <h3 align="center"><b><i>🤠 About me :-</i></b>
 <br>
 <br>
-<li> 😇 <i>Indian</i></li>
-<li> ❤️ <i>Love Learning Internet</i></li>
+<li> 😇 <i>I Am An Indian</i></li>
+<li> 🔥 <i>Love Learning Internet</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : To get hardest goals of my life</i></li>
+<li> 😊 <i>Aim : To get hardest goals of my life</i></li>
 
 <br>
 <br>
@@ -22,8 +22,8 @@
 <a href="https://github.com/pogodrawings"><img width=550 src="https://github-profile-trophy.vercel.app/?username=pogodrawings&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3 align="center"><b><i>Join us on Telegram :-</i></b>
-<h3 align="center"><a href="https://www.telegram.dog/GreyMatter_Bots">
-    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
+<h3 align="center"><a href="https://www.telegram.dog/hexafreinds">
+    &nbsp;<img src="https://img.shields.io/badge/Pogodrawings bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 <a href="https://www.telegram.dog/GreyMatter_Support">
   <img src="https://img.shields.io/badge/Join Support Group-blue?logo=telegram" width="200" height="30">&nbsp;
   </a>
