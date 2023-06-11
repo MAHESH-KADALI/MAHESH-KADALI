@@ -1,18 +1,18 @@
-# °°°°°°°°°°°°°°°°°°°°°°  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Pogodrawings+Profile;I+am+a+beginer+Entrepreneur;Learning+Python+...;I+am+a+Pharmacist+...;Subscribe+GreyMatter's+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg) °°°°°°°°°°°°°°°°°°°°°°
+# °°°°°°°°°°°°°°°°°°°°°°  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Pogodrawings+Profile;I+am+a+beginer;Learning+Python+...;;Subscribe+maheshpokeyoutuber+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg) °°°°°°°°°°°°°°°°°°°°°°
 
 <h3 align="center"><b><i>🤠 About me :-</i></b>
 <br>
 <br>
 <li> 😇 <i>Indian</i></li>
-<li> ❤️ <i>Love Learning Internet of Things</i></li>
+<li> ❤️ <i>Love Learning Internet</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : To get what i love</i></li>
+<li> 🤐 <i>Aim : To get hardest goals of my life</i></li>
 
 <br>
 <br>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{Greymattersbot}/count.svg" alt="Greymattersbot :: Visitor's Count" />
-<img src="https://komarev.com/ghpvc/?username=Greymattersbot&color=brightgreen" alt="watching_count" />
+<img src="https://profile-counter.glitch.me/{pogodrawings}/count.svg" alt="pogodrawings :: Visitor's Count" />
+<img src="https://komarev.com/ghpvc/?username=pogodrawings&color=brightgreen" alt="watching_count" />
 </p>
 
 <h3 align="center"><b><i>🏆 Github Statistics :-</i></b></h3>
