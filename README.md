@@ -23,9 +23,9 @@
 
 <h3 align="center"><b><i>Join us on Telegram :-</i></b>
 <h3 align="center"><a href="https://www.telegram.dog/hexafreinds">
-    &nbsp;<img src="https://img.shields.io/badge/Pogodrawings bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
-<a href="https://www.telegram.dog/GreyMatter_Support">
-  <img src="https://img.shields.io/badge/Join Support Group-blue?logo=telegram" width="200" height="30">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/MY GAME GROUP-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
+<a href="https://www.telegram.dog/hexafreinds">
+  <img src="https://img.shields.io/badge/JOIN THIS GROUP LATER ILL ADD A BOTS SUPPORT-blue?logo=telegram" width="200" height="30">&nbsp;
   </a>
 
 <h3 align="center"><b><i>Our Bot List 🤖 :-</i></b>
