@@ -59,8 +59,8 @@
 </p>
 
 <h3><b><i>📡 Get in Touch :-</i></b></h3>
-<a href="https://github.com/Greymattersbot"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://www.telegram.dog/GreyMatter_Owner"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
+<a href="https://github.com/pogodrawings"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://www.telegram.dog/xereneas"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
 <a href="https://www.instagram.com/greymatters_moksh.658"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://twitter.com/GreyMatters_658"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter.png" /></a>
 <a href="https://superprofile.bio/greymatters"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/IMG_20230123_144614_022.png" /></a>
