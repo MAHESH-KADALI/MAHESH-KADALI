@@ -25,7 +25,7 @@
 <h3 align="center"><a href="https://www.telegram.dog/hexafreinds">
     &nbsp;<img src="https://graph.org/file/0f20570db175553686f09.jpgMY GAME GROUP-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 <a href="https://www.telegram.dog/hexafreinds">
-  <img src="https://img.shields.io/badge/pogodrawings group"THIS GROUP LATER ILL ADD A BOTS SUPPORT-blue?logo=telegram" width="200" height="30">&nbsp;
+  <img src="https://img.shields.io/badge/pogodrawings group THIS GROUP LATER ILL ADD A BOTS SUPPORT-blue?logo=telegram" width="200" height="30">&nbsp;
   </a>
 
 <h3 align="center"><b><i>Our Bot List 🤖 :-</i></b>
