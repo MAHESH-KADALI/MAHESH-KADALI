@@ -25,7 +25,7 @@
 <h3 align="center"><a href="https://www.telegram.dog/hexafreinds">
     &nbsp;<img src="https://graph.org/file/0f20570db175553686f09.jpgMY GAME GROUP-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 <a href="https://www.telegram.dog/hexafreinds">
-  <img src="https://graph.org/file/0f20570db175553686f09.jpgJOIN THIS GROUP LATER ILL ADD A BOTS SUPPORT-blue?logo=telegram" width="200" height="30">&nbsp;
+  <img src="https://img.shields.io/badge/pogodrawings group-THIS GROUP LATER ILL ADD A BOTS SUPPORT-blue?logo=telegram" width="200" height="30">&nbsp;
   </a>
 
 <h3 align="center"><b><i>Our Bot List 🤖 :-</i></b>
@@ -37,9 +37,9 @@
 <h3 align="center">
 <a href="https://www.youtube.com/@maheshpoketuber">
     &nbsp;<img src="https://img.shields.io/badge/pogodrawings-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
-<a href="https://youtube.com/@maheshpoketuber"> <img src="https://img.shields.io/youtube/channel/subscribers/UCKmxefKrj5UKCHjZx7dsdpA?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
+<a href="https://youtube.com/@maheshpoketuber"> <img src="https://img.shields.io/youtube/channel/subscribers/maheshpoketuber?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 <h3 align="center">
-<a href="https://www.youtube.com/@pogodrawings">
+<a href="https://www.youtube.com/@maheshpoketuber">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersBot"> <img src="https://img.shields.io/youtube/channel/subscribers/UCaDNZ02UYe0GsM5Ob0jE82g?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 
